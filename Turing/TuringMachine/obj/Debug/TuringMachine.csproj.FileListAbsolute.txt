@@ -1,0 +1,5 @@
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\bin\Debug\TuringMachine.exe.config
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\bin\Debug\TuringMachine.exe
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\bin\Debug\TuringMachine.pdb
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\obj\Debug\TuringMachine.exe
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\obj\Debug\TuringMachine.pdb

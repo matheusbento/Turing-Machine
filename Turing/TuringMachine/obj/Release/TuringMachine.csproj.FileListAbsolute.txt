@@ -1,0 +1,12 @@
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\bin\Release\TuringMachine.exe.config
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\bin\Release\TuringMachine.exe
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\bin\Release\TuringMachine.pdb
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\obj\Release\TuringMachine.exe
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\obj\Release\TuringMachine.pdb
+Z:\Projeto DellaMura\Turing Machine\Turing\TuringMachine\obj\Release\TuringMachine.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Bento\Desktop\Turing Machine\Turing Machine\Turing\TuringMachine\bin\Release\TuringMachine.exe.config
+C:\Users\Matheus Bento\Desktop\Turing Machine\Turing Machine\Turing\TuringMachine\obj\Release\TuringMachine.exe
+C:\Users\Matheus Bento\Desktop\Turing Machine\Turing Machine\Turing\TuringMachine\obj\Release\TuringMachine.pdb
+C:\Users\Matheus Bento\Desktop\Turing Machine\Turing Machine\Turing\TuringMachine\bin\Release\TuringMachine.exe
+C:\Users\Matheus Bento\Desktop\Turing Machine\Turing Machine\Turing\TuringMachine\bin\Release\TuringMachine.pdb
+C:\Users\Matheus Bento\Desktop\Turing Machine\Turing Machine\Turing\TuringMachine\obj\Release\TuringMachine.csprojResolveAssemblyReference.cache
